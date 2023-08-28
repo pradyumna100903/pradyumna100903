@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradyumna100903" alt="pradyumna100903" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bhat9_pradyumna" target="blank"><img src="https://img.shields.io/twitter/follow/bhat9_pradyumna?logo=twitter&style=for-the-badge" alt="bhat9_pradyumna" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/bhat9_pradyumna" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bhat9_pradyumna?logo=twitter&style=for-the-badge" alt="https://twitter.com/bhat9_pradyumna" /></a> </p>
 
 - 🔭 I’m currently a student **studying B.E in ISE**
 
@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhat9_pradyumna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhat9_pradyumna" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/bhat9_pradyumna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bhat9_pradyumna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pradyumna-bhat-59857a227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradyumna-bhat-59857a227" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22043498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22043498" height="30" width="40" /></a>
 <a href="https://fb.com/pradyumna bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradyumna bhat" height="30" width="40" /></a>
-<a href="https://instagram.com/praddy_bhat_2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praddy_bhat_2k3" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/praddy_bhat_2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/praddy_bhat_2k3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
