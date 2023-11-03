@@ -2,7 +2,7 @@
 <h3 align="center">An IT Engineer and Developer from India</h3>
 
 # 💫 About Me:
- I’m currently a student studying B.E in ISE<br><br>🌱 I’m currently learning Data Structures, C++ and Java<br><br>👯 I’m looking to collaborate on Beginner Level Projects<br><br>💬 Ask me about Technology and Programming<br><br>📫 How to reach me pradyumnabhat2003@gmail.com<br><br>⚡ Fun fact I am also a Gamer and YT Lover.
+ I’m currently a student studying B.E in ISE<br><br>🌱 I’m currently learning Data Structures, Web Dev and Java<br><br>👯 I’m looking to collaborate on Beginner Level Projects<br><br>💬 Ask me about Technology and Programming<br><br>📫 How to reach me pradyumnabhat2003@gmail.com<br><br>⚡ Fun fact I am also a Gamer and YT Lover.
 
 
 ## 🌐 Socials:
