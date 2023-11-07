@@ -1,5 +1,4 @@
-
-![https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif]
+![](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Pradyumna Bhat</h1>
 <h3 align="center">An IT Engineer and Developer from India</h3>
