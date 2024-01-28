@@ -1,7 +1,9 @@
-![](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 
 <h1 align="center">Hi 👋, I'm Pradyumna Bhat</h1>
 <h3 align="center">An IT Engineer and Developer from India</h3>
+
+![](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
+
 
 # 💫 About Me:
  I’m currently a student studying Bachelor of Engineering in Information Science at Canara Engg. College <br><br>🌱 I’m currently learning Data Structures, C and Java<br><br>👯 I’m looking to collaborate on Beginner Level Projects<br><br>💬 Ask me about Technology and Programming<br><br>📫 How to reach me pradyumnabhat2003@gmail.com<br><br>⚡ Fun fact I am also a Gamer and YT Lover.
