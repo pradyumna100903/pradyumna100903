@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
- I’m currently a student studying Bachelor of Engineering in Information Science at Canara Engg. College <br><br>🌱 I’m currently learning Data Structures, C and Java<br><br>👯 I’m looking to collaborate on Beginner Level Projects<br><br>💬 Ask me about Technology and Programming<br><br>📫 How to reach me pradyumnabhat2003@gmail.com<br><br>⚡ Fun fact I am also a Gamer,Photographer  and YT Lover.
+ I’m currently a student studying Bachelor of Engineering in Information Science at Canara Engg. College <br><br>🌱 I’m currently learning Data Structures in  Java<br><br>👯 I’m looking to collaborate on Beginner Level Projects<br><br>💬 Ask me about Technology and Programming<br><br>📫 How to reach me pradyumnabhat2003@gmail.com<br><br>⚡ Fun fact I am also a Gamer,Photographer  and YT Lover.
 
   ![](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif) 
   ![](https://camo.githubusercontent.com/c0faa604223515b45c0a4003541e5b9e53be31dbfd5963a4f8dce7ae34ccd08c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236746e333361695469316a6b6c3648362f67697068792e676966)
