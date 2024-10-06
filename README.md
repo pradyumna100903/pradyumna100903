@@ -8,11 +8,12 @@
 
   ![](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif) 
   ![](https://camo.githubusercontent.com/c0faa604223515b45c0a4003541e5b9e53be31dbfd5963a4f8dce7ae34ccd08c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236746e333361695469316a6b6c3648362f67697068792e676966)
+  [![Holopin profile](https://holopin.me/pradyumna100903)](https://holopin.io/@pradyumna100903)
   
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/praddy_bhat_2k3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradyumna-bhat-59857a227) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22043498) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/frozendevil_10903) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@bhat9_pradyumna) 
-[![Holopin profile](https://holopin.me/pradyumna100903)](https://holopin.io/@pradyumna100903)
+
      
 
 # 💻 Tech Stack:
