@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello , I'm Pradyumna Bhat</h1>
-<h3 align="center">Final Year Student From CEC, Mangalore </h3>
+<h3 align="center">Final Year ISE Student From CEC, Mangalore </h3>
 <h3 align="center"> Tech and Photography is my Passion.  </h3>
 
 # 💫 About Me:
