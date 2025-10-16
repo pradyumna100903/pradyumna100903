@@ -34,6 +34,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pradyumna100903&icon=0&color=6)](https://visitcount.itsvg.in)
 
-[![Pradyumna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&theme=tokyo-dark)](https://github.com/pradyumna100903/github-readme-activity-graph)
+[![Pradyumna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradyumna100903&theme=react-dark)]
 
 
