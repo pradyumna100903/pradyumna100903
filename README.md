@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello , I'm Pradyumna Bhat</h1>
+<h1 align="center">Hello , I'm Pradyumna Bhat.</h1>
 <h3 align="center">Bachelor of Engineering (ISE) Graduate From CEC, Mangalore. </h3>
 <h3 align="center"> Tech and Photography is my Passion.  </h3>
 
