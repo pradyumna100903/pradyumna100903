@@ -9,7 +9,7 @@
   ![](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif) 
   ![](https://camo.githubusercontent.com/c0faa604223515b45c0a4003541e5b9e53be31dbfd5963a4f8dce7ae34ccd08c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236746e333361695469316a6b6c3648362f67697068792e676966)
   
-  [![Hackoctober - holopins badges](https://holopin.me/hari7261)](https://holopin.io/@pradyumna100903)
+  [![Hackoctober - holopins badges](https://holopin.me/pradyumna100903)](https://holopin.io/@pradyumna100903)
 
   
 
