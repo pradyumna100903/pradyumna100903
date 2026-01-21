@@ -2,7 +2,8 @@
   
 <h1 align="center"> Hello , Pradyumna Bhat this side :)   </h1>
 <h3 align="center"> Bachelor of Engineering (ISE) Graduate From CEC, Mangaluru . </h3>
-<h3 align="center"> Technology and Photography is my Passion .  </h3>
+<h3 align="center"> Technology and Photography is my Passion . </h3>
+
 
 # 💫 About Me:
  I’m currently a fresher who completed Bachelor of Engineering in Information Science at Canara Engineering College, Mangalore. <br><br>🌱 I’m currently learning Development and Frameworks <br>
