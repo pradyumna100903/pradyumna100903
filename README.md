@@ -1,7 +1,7 @@
 
 
   
-<h1 align="center"> Hello , I am Pradyumna Bhat  :) . </h1> 
+<h1 align="center"> Hello , I am Pradyumna Bhat  :) .. </h1> 
 <h3 align="center"> Bachelor of Engineering (ISE) Graduate From CEC, Mangaluru  ..  </h3>
 <h3 align="center"> Technology and Photography is my Passion  ..   </h3>
 
