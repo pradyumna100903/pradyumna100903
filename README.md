@@ -5,8 +5,9 @@
 <h3 align="center"> Technology and Photography is my Passion . ...  </h3>
 
 
+
 # 💫 About Me:
- I’m currently a fresher who completed Bachelor of Engineering in Information Science at Canara Engineering College, Mangaluru. <br><br>🌱 I’m currently learning SpringBoot with Coding Shuttle. <br>
+ I’m currently a fresher who completed Bachelor of Engineering in Information Science at Canara Engineering College, Mangaluru. <br><br>🌱 I’m currently learning SpringBoot. <br>
  <br>👯 I’m looking to collaborate on Beginner Level Projects<br><br>💬 Ask me about Technology and Programming<br><br>📫 How to reach me pradyumnabhat2003@gmail.com<br><br>⚡ Fun fact I am also a Gamer,Photographer and YT Lover . 
 
   ![](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif) 
