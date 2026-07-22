@@ -3,9 +3,9 @@
 
 <h1 align="center"> Hello , I am Pradyumna Bhat  .. </h1> 
 <h3 align="center"> Bachelor of Engineering (in ISE ) Graduate From CEC, Mangaluru  ..  </h3>
-<h3 align="center"> Currently Exploring Cloud and Frontend .. </h3>
+<h3 align="center">  Exploring Cloud and GenAI .. </h3>
 <h3 align="center"> Technology and Photography is my Passion .. </h3>
-<h3 </h3>
+<h3 align="center"> Currently Learning MERN Through Sheryians Coding School.. </h3>
 
 # 💫 About Me:
 
